@@ -1,3 +1,5 @@
+<img width="1224" height="429" alt="Estado inicial" src="https://github.com/user-attachments/assets/4d92a248-e29b-41bc-9985-864797fd1124" />
+<img width="1239" height="421" alt="en ejecución" src="https://github.com/user-attachments/assets/a0839007-71b4-4eec-b348-58aafcda2792" />
 # Simulacion-Netlogo-TAM
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;  Modelo TAM simplificado: Utilidad percibida, Facilidad de uso y Confianza
